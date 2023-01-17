@@ -1,0 +1,39 @@
+# Configuration
+deflogin on
+autodetach off
+
+caption always
+
+bindkey ^w screen
+bindkey ^p prev
+bindkey ^n next
+bindkey ^x quit
+bind q quit
+bindkey ^l windowlist
+bindkey ^e copy
+
+# Pre-defined tabs
+
+screen 0
+title "simple sim"
+stuff "start-tdde05; ros2 launch air_bringup turtle.launch.py\015"
+
+screen 2
+title "rviz"
+stuff "start-tdde05; rviz2\015"
+
+screen 3
+title "rqt"
+stuff "start-tdde05; rqt\015"
+
+screen 4
+title "docking"
+stuff "ros2 action send_goal /dock irobot_create_msgs/action/DockServo {}"
+
+screen 5
+title "undocking"
+stuff "ros2 action send_goal /undock irobot_create_msgs/action/Undock {}"
+
+screen 6
+title "moving"
+stuff "ros2 action send_goal /navigate_to_position irobot_create_msgs/action/NavigateToPosition '{achieve_goal_heading: true,goal_pose:{pose:{position:{x: 3, y: 4,z: 0.0}, orientation:{x: 0.0,y: 0.0, z: 0.0, w: 1.0}}}}'" 
