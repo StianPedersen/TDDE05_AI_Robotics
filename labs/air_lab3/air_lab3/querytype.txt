@@ -1,0 +1,17 @@
+ros2_kdb_msgs/srv/QueryDatabase
+
+#
+# Execute a query on the RDF database
+#
+# format can be "json", "srx", "xml", "turtle"
+# when success if false, the result is a string with the error message
+#
+# query is a json hash defining values used in the query
+
+string graphname
+string format
+string query
+string bindings
+---
+string result
+bool success

@@ -1,0 +1,1 @@
+/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/ament_cmake_environment_hooks/local_setup.bash

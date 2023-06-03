@@ -1,0 +1,18 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goal__type_support.c.o"
+  "CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goals_request__type_support.c.o"
+  "CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/srv/detail/execute_tst__type_support.c.o"
+  "libair_lab_interfaces__rosidl_typesupport_introspection_c.pdb"
+  "libair_lab_interfaces__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goal__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goal__type_support.c"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goals_request__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goals_request__type_support.c"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/srv/detail/execute_tst__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/air_lab_interfaces/srv/detail/execute_tst__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

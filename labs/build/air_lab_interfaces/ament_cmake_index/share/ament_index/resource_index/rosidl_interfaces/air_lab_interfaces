@@ -1,0 +1,8 @@
+msg/Goal.idl
+msg/Goal.msg
+msg/GoalsRequest.idl
+msg/GoalsRequest.msg
+srv/ExecuteTst.idl
+srv/ExecuteTst.srv
+srv/ExecuteTst_Request.msg
+srv/ExecuteTst_Response.msg

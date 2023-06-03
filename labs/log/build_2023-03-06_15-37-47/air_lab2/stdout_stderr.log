@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating air_lab2.egg-info
+writing air_lab2.egg-info/PKG-INFO
+writing dependency_links to air_lab2.egg-info/dependency_links.txt
+writing entry points to air_lab2.egg-info/entry_points.txt
+writing requirements to air_lab2.egg-info/requires.txt
+writing top-level names to air_lab2.egg-info/top_level.txt
+writing manifest file 'air_lab2.egg-info/SOURCES.txt'
+reading manifest file 'air_lab2.egg-info/SOURCES.txt'
+writing manifest file 'air_lab2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/lib/python3.8/site-packages/site.py
+Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/lib/python3.8/site-packages/air-lab2.egg-link (link to .)
+Installing lab2_node script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/lib/air_lab2
+Installing random_exploration script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/lib/air_lab2
+
+Installed /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab2
+running install_data
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/share/ament_index
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/share/ament_index/resource_index
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/share/ament_index/resource_index/packages
+copying resource/air_lab2 -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/share/ament_index/resource_index/packages
+copying package.xml -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab2/share/air_lab2

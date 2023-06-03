@@ -1,0 +1,4 @@
+source;share/air_lab_interfaces/local_setup.bash
+source;share/air_lab_interfaces/local_setup.dsv
+source;share/air_lab_interfaces/local_setup.sh
+source;share/air_lab_interfaces/local_setup.zsh

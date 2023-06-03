@@ -1,0 +1,9 @@
+source;share/air_lab5/hook/pythonpath.ps1
+source;share/air_lab5/hook/pythonpath.dsv
+source;share/air_lab5/hook/pythonpath.sh
+source;share/air_lab5/hook/ament_prefix_path.ps1
+source;share/air_lab5/hook/ament_prefix_path.dsv
+source;share/air_lab5/hook/ament_prefix_path.sh
+source;../../build/air_lab5/share/air_lab5/hook/pythonpath_develop.ps1
+source;../../build/air_lab5/share/air_lab5/hook/pythonpath_develop.dsv
+source;../../build/air_lab5/share/air_lab5/hook/pythonpath_develop.sh

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_generator_py/air_lab_interfaces/libair_lab_interfaces__python.so" "TARGETS" "air_lab_interfaces__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

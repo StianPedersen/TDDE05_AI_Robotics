@@ -1,0 +1,4 @@
+string tst_file       # Name of the TST file to execute, it should be a full path
+---
+bool success          # Whether the execution was successful
+string my_error  # Error message if the execution was unsuccessful

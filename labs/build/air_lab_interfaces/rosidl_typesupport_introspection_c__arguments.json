@@ -1,0 +1,23 @@
+{
+  "package_name": "air_lab_interfaces",
+  "output_dir": "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_typesupport_introspection_c/air_lab_interfaces",
+  "template_dir": "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:srv/ExecuteTst.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:msg/Goal.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:msg/GoalsRequest.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/galactic/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/ros/galactic/lib/python3.8/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/srv/ExecuteTst.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/msg/Goal.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/msg/GoalsRequest.idl"
+  ]
+}
