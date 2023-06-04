@@ -1,0 +1,22 @@
+{
+  "children": [
+    {
+      "children": [],
+      "common_params": {},
+      "name": "drive-to",
+      "params": {
+        "p": {
+          "rostype": "Point",
+          "x": 9.75,
+          "y": -3.0,
+          "z": 0
+        }
+      }
+    }
+  ],
+  "common_params": {},
+  "name": "seq",
+  "params": {
+    "repeat-count": 1
+  }
+}

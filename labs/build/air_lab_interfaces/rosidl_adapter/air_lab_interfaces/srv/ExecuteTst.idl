@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from air_lab_interfaces/srv/ExecuteTst.srv
+// generated code does not contain a copyright notice
+
+
+module air_lab_interfaces {
+  module srv {
+    struct ExecuteTst_Request {
+      @verbatim (language="comment", text=
+        " Name of the TST file to execute, it should be a full path")
+      string tst_file;
+    };
+    struct ExecuteTst_Response {
+      @verbatim (language="comment", text=
+        " Whether the execution was successful")
+      boolean success;
+
+      @verbatim (language="comment", text=
+        " Error message if the execution was unsuccessful")
+      string my_error;
+    };
+  };
+};

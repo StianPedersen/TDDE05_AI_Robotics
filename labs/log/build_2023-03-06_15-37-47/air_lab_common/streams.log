@@ -1,0 +1,26 @@
+[50.699s] Invoking command in '/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common': PYTHONPATH=/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common/prefix_override:/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common/build --no-deps install_data
+[64.455s] running develop
+[68.176s] running egg_info
+[68.185s] creating air_lab_common.egg-info
+[68.195s] writing air_lab_common.egg-info/PKG-INFO
+[68.236s] writing dependency_links to air_lab_common.egg-info/dependency_links.txt
+[68.255s] writing entry points to air_lab_common.egg-info/entry_points.txt
+[68.269s] writing requirements to air_lab_common.egg-info/requires.txt
+[68.281s] writing top-level names to air_lab_common.egg-info/top_level.txt
+[68.458s] writing manifest file 'air_lab_common.egg-info/SOURCES.txt'
+[102.445s] reading manifest file 'air_lab_common.egg-info/SOURCES.txt'
+[102.546s] writing manifest file 'air_lab_common.egg-info/SOURCES.txt'
+[103.976s] running build_ext
+[103.998s] Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/lib/python3.8/site-packages/site.py
+[104.393s] Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/lib/python3.8/site-packages/air-lab-common.egg-link (link to .)
+[104.637s] 
+[104.637s] Installed /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common
+[104.677s] running install_data
+[104.742s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/ament_index
+[104.754s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/ament_index/resource_index
+[104.767s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/ament_index/resource_index/packages
+[104.838s] copying resource/air_lab_common -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/ament_index/resource_index/packages
+[104.932s] copying package.xml -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/air_lab_common
+[105.014s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/air_lab_common/screen
+[105.048s] copying screen/screen.tdde05 -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/share/air_lab_common/screen
+[106.013s] Invoked command in '/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common' returned '0': PYTHONPATH=/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common/prefix_override:/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_common/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_common/build --no-deps install_data

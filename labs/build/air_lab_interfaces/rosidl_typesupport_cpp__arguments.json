@@ -1,0 +1,21 @@
+{
+  "package_name": "air_lab_interfaces",
+  "output_dir": "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_typesupport_cpp/air_lab_interfaces",
+  "template_dir": "/opt/ros/galactic/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:srv/ExecuteTst.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:msg/Goal.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces:msg/GoalsRequest.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/galactic/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/ros/galactic/lib/python3.8/site-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/ros/galactic/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/galactic/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/srv/ExecuteTst.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/msg/Goal.idl",
+    "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_adapter/air_lab_interfaces/msg/GoalsRequest.idl"
+  ]
+}

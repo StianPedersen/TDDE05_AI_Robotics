@@ -1,0 +1,27 @@
+[49.457s] Invoking command in '/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5': PYTHONPATH=/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5/prefix_override:/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5/build --no-deps install_data
+[62.188s] running develop
+[65.969s] running egg_info
+[65.970s] creating air_lab5.egg-info
+[65.972s] writing air_lab5.egg-info/PKG-INFO
+[66.005s] writing dependency_links to air_lab5.egg-info/dependency_links.txt
+[66.020s] writing entry points to air_lab5.egg-info/entry_points.txt
+[66.035s] writing requirements to air_lab5.egg-info/requires.txt
+[66.044s] writing top-level names to air_lab5.egg-info/top_level.txt
+[66.168s] writing manifest file 'air_lab5.egg-info/SOURCES.txt'
+[100.899s] reading manifest file 'air_lab5.egg-info/SOURCES.txt'
+[100.946s] writing manifest file 'air_lab5.egg-info/SOURCES.txt'
+[102.782s] running build_ext
+[102.800s] Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages/site.py
+[103.154s] Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages/air-lab5.egg-link (link to .)
+[103.325s] Installing decision script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+[103.420s] Installing lab5_node script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+[103.513s] Installing text script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+[103.694s] 
+[103.694s] Installed /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5
+[103.714s] running install_data
+[103.760s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index
+[103.777s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index
+[103.817s] creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index/packages
+[103.906s] copying resource/air_lab5 -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index/packages
+[104.050s] copying package.xml -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/air_lab5
+[105.787s] Invoked command in '/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5' returned '0': PYTHONPATH=/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5/prefix_override:/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5/build --no-deps install_data

@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating air_lab5.egg-info
+writing air_lab5.egg-info/PKG-INFO
+writing dependency_links to air_lab5.egg-info/dependency_links.txt
+writing entry points to air_lab5.egg-info/entry_points.txt
+writing requirements to air_lab5.egg-info/requires.txt
+writing top-level names to air_lab5.egg-info/top_level.txt
+writing manifest file 'air_lab5.egg-info/SOURCES.txt'
+reading manifest file 'air_lab5.egg-info/SOURCES.txt'
+writing manifest file 'air_lab5.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages/site.py
+Creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/python3.8/site-packages/air-lab5.egg-link (link to .)
+Installing decision script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+Installing lab5_node script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+Installing text script to /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/lib/air_lab5
+
+Installed /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab5
+running install_data
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index
+creating /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index/packages
+copying resource/air_lab5 -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/ament_index/resource_index/packages
+copying package.xml -> /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab5/share/air_lab5

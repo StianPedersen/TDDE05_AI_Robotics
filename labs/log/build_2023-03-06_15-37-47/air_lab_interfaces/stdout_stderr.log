@@ -1,0 +1,196 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /bin/cc
+-- Check for working C compiler: /bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /bin/c++
+-- Check for working CXX compiler: /bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.1.6 (/opt/ros/galactic/share/ament_cmake/cmake)
+-- Found PythonInterp: /bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found std_msgs: 2.2.4 (/opt/ros/galactic/share/std_msgs/cmake)
+-- Using single rosidl_typesupport_c: rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 2.2.3 (/opt/ros/galactic/share/rosidl_adapter/cmake)
+-- Using single rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp
+-- Found rosidl_default_generators: 1.1.1 (/opt/ros/galactic/share/rosidl_default_generators/cmake)
+-- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+-- Found PythonInterp: /bin/python3 (found version "3.8.10") 
+-- Using single rosidl_typesupport_c: rosidl_typesupport_introspection_c
+-- Using single rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp
+-- Found PythonInterp: /bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+-- Found python_cmake_module: 0.8.1 (/opt/ros/galactic/share/python_cmake_module/cmake)
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+-- Using PYTHON_EXECUTABLE: /bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+-- Found PythonExtra: .so  
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces
+[  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__cpp[0m
+[  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_generator_c[0m
+[  5%] Built target air_lab_interfaces__cpp
+[  8%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_generator_c.dir/rosidl_generator_c/air_lab_interfaces/msg/detail/goals_request__functions.c.o[0m
+[ 11%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_generator_c.dir/rosidl_generator_c/air_lab_interfaces/msg/detail/goal__functions.c.o[0m
+[ 14%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_generator_c.dir/rosidl_generator_c/air_lab_interfaces/srv/detail/execute_tst__functions.c.o[0m
+[ 17%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 20%] [32m[1mLinking C shared library libair_lab_interfaces__rosidl_generator_c.so[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_introspection_cpp[0m
+[ 20%] Built target air_lab_interfaces__rosidl_generator_c
+[ 22%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/air_lab_interfaces/msg/detail/goal__type_support.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/air_lab_interfaces/srv/detail/execute_tst__type_support.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/air_lab_interfaces/msg/detail/goals_request__type_support.cpp.o[0m
+[ 34%] [32m[1mLinking CXX shared library libair_lab_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_introspection_c[0m
+[ 34%] Built target air_lab_interfaces__rosidl_typesupport_introspection_cpp
+[ 37%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/srv/detail/execute_tst__type_support.c.o[0m
+[ 40%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goal__type_support.c.o[0m
+[ 42%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/air_lab_interfaces/msg/detail/goals_request__type_support.c.o[0m
+[ 45%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 48%] [32m[1mLinking C shared library libair_lab_interfaces__rosidl_typesupport_introspection_c.so[0m
+[ 48%] Built target air_lab_interfaces__rosidl_typesupport_introspection_c
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_cpp[0m
+[ 51%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/air_lab_interfaces/msg/goal__type_support.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/air_lab_interfaces/msg/goals_request__type_support.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/air_lab_interfaces/srv/execute_tst__type_support.cpp.o[0m
+[ 62%] [32m[1mLinking CXX shared library libair_lab_interfaces__rosidl_typesupport_cpp.so[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_c[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/air_lab_interfaces/msg/goals_request__type_support.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/air_lab_interfaces/msg/goal__type_support.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/air_lab_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/air_lab_interfaces/srv/execute_tst__type_support.cpp.o[0m
+[ 71%] Built target air_lab_interfaces__rosidl_typesupport_cpp
+[ 74%] [32m[1mLinking CXX shared library libair_lab_interfaces__rosidl_typesupport_c.so[0m
+[ 74%] Built target air_lab_interfaces__rosidl_typesupport_c
+[35m[1mScanning dependencies of target air_lab_interfaces[0m
+[ 74%] Built target air_lab_interfaces
+[35m[1mScanning dependencies of target air_lab_interfaces__py[0m
+[ 77%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 77%] Built target air_lab_interfaces__py
+[35m[1mScanning dependencies of target air_lab_interfaces__python[0m
+[ 80%] [32mBuilding C object CMakeFiles/air_lab_interfaces__python.dir/rosidl_generator_py/air_lab_interfaces/srv/_execute_tst_s.c.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/air_lab_interfaces__python.dir/rosidl_generator_py/air_lab_interfaces/msg/_goals_request_s.c.o[0m
+[ 85%] [32mBuilding C object CMakeFiles/air_lab_interfaces__python.dir/rosidl_generator_py/air_lab_interfaces/msg/_goal_s.c.o[0m
+[ 88%] [32m[1mLinking C shared library rosidl_generator_py/air_lab_interfaces/libair_lab_interfaces__python.so[0m
+[ 88%] Built target air_lab_interfaces__python
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mScanning dependencies of target air_lab_interfaces__rosidl_typesupport_c__pyext[0m
+[ 91%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/air_lab_interfaces/_air_lab_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/air_lab_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/air_lab_interfaces/_air_lab_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[ 97%] [32m[1mLinking C shared library rosidl_generator_py/air_lab_interfaces/air_lab_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[100%] [32m[1mLinking C shared library rosidl_generator_py/air_lab_interfaces/air_lab_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[100%] Built target air_lab_interfaces__rosidl_typesupport_introspection_c__pyext
+[100%] Built target air_lab_interfaces__rosidl_typesupport_c__pyext
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/ament_index/resource_index/rosidl_interfaces/air_lab_interfaces
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__functions.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__struct.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__type_support.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__functions.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__struct.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__type_support.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/goal.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/goals_request.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__functions.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__struct.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__type_support.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/execute_tst.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/library_path.sh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/library_path.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__builder.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__struct.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__traits.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__builder.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__struct.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__traits.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/goal.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/goals_request.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__builder.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__struct.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__traits.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/execute_tst.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goal__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/msg/detail/goals_request__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/include/air_lab_interfaces/srv/detail/execute_tst__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/pythonpath.sh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/pythonpath.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/__init__.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/srv/__init__.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/srv/_execute_tst.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/msg/__init__.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/msg/_goal.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/msg/_goals_request.py
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/air_lab_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/air_lab_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__python.so
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/srv/ExecuteTst.idl
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/msg/Goal.idl
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/msg/GoalsRequest.idl
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/srv/ExecuteTst.srv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/srv/ExecuteTst_Request.msg
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/srv/ExecuteTst_Response.msg
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/msg/Goal.msg
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/msg/GoalsRequest.msg
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/ament_index/resource_index/package_run_dependencies/air_lab_interfaces
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/ament_index/resource_index/parent_prefix_path/air_lab_interfaces
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/ament_prefix_path.sh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/ament_prefix_path.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/path.sh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/environment/path.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/local_setup.bash
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/local_setup.sh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/local_setup.zsh
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/local_setup.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/package.dsv
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/ament_index/resource_index/packages/air_lab_interfaces
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfacesConfig.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfacesConfig-version.cmake
+-- Symlinking: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/package.xml
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_generator_c.so
+-- Set runtime path of "/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_generator_c.so" to ""
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_c.so
+-- Set runtime path of "/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_c.so" to ""
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/libair_lab_interfaces__rosidl_typesupport_cpp.so" to ""
+Compiling '/home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/lib/python3.8/site-packages/air_lab_interfaces/__init__.py'...
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_generator_cExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_cExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_generator_cppExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/stilo759/TDDE05/ros2_ws/src/labs/install/air_lab_interfaces/share/air_lab_interfaces/cmake/air_lab_interfaces__rosidl_typesupport_cppExport-noconfig.cmake

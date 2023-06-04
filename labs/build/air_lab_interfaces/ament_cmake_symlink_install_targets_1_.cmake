@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/stilo759/TDDE05/ros2_ws/src/labs/build/air_lab_interfaces/rosidl_generator_py/air_lab_interfaces/air_lab_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" "TARGETS" "air_lab_interfaces__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.8/site-packages/air_lab_interfaces")

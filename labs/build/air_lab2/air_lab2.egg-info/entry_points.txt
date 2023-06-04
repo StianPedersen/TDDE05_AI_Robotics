@@ -1,0 +1,4 @@
+[console_scripts]
+lab2_node = air_lab2.lab2_node:main
+random_exploration = air_lab2.random_exploration:main
+
