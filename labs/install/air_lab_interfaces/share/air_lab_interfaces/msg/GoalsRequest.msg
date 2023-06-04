@@ -1,1 +1,0 @@
-/home/stilo759/TDDE05/ros2_ws/src/labs/air_lab_interfaces/msg/GoalsRequest.msg

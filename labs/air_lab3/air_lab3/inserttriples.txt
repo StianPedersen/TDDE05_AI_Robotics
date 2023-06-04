@@ -1,8 +1,0 @@
-string graphname
-string format
-string content
----
-string err_msgs
-bool success
-
-ros2_kdb_msgs/srv/InsertTriples

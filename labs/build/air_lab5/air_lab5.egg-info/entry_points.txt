@@ -1,5 +1,0 @@
-[console_scripts]
-decision = air_lab5.decision:main
-lab5_node = air_lab5.lab5_node:main
-text = air_lab5.text_to_goals:main
-
